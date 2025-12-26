@@ -1,5 +1,8 @@
 📊 Sistema de Análise Financeira Pessoal
 
+Ver no Linkedin com imagens:
+https://www.linkedin.com/posts/jose-vitor-goncalves0202_ol%C3%A1-rede-gostaria-de-compartilhar-um-projeto-activity-7364732474951630851-SPS4?utm_source=share&utm_medium=member_desktop&rcm=ACoAADaCcbAB8AjwwJwK3zSBut-T65kOnAQputY
+
 Olá! Este é um projeto pessoal que estou desenvolvendo com o objetivo de facilitar o controle e a visualização de finanças pessoais, a partir de dados simples, como uma planilha do Excel.
 
 Muitas pessoas (inclusive eu) utilizam planilhas para registrar gastos e ganhos mensais. A ideia deste projeto surgiu da seguinte pergunta:
