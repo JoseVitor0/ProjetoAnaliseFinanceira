@@ -92,3 +92,8 @@ Uma planilha com dados fictícios, utilizada apenas para demonstração
 
 Fique à vontade para explorar o projeto, sugerir melhorias ou entrar em contato para trocar ideias 🚀
 Esse sistema ainda tem muito espaço para evoluir, e toda contribuição é bem-vinda!
+
+
+
+Este projeto está sob a licença MIT - veja o arquivo LICENSE para detalhes.
+Copyright © 2026 José Vitor Gonçalves
